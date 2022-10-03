@@ -14,9 +14,9 @@ sec_key = (
 )
 
 # Telegram Settings
-send_telegram_alerts = False
-tg_token = ""  # Bot token. Get it from @Botfather
-channel = 0  # Channel ID (ex. -1001487568087)
+send_telegram_alerts = True
+tg_token = "5485530665:AAGCNQJeNlKFf_QET3ZFIcIn8O_1ZCn1k-A"  # Bot token. Get it from @Botfather
+channel = 1001605249969  # Channel ID (ex. -1001487568087)
 
 # Discord Settings
 send_discord_alerts = False
@@ -27,11 +27,11 @@ send_slack_alerts = False
 slack_webhook = ""  # Slack Webhook URL (https://api.slack.com/messaging/webhooks)
 
 # Twitter Settings
-send_twitter_alerts = False
-tw_ckey = ""
-tw_csecret = ""
-tw_atoken = ""
-tw_asecret = ""
+send_twitter_alerts = True
+tw_ckey = "W08Dw9OfvYHrz8Ho2GMGVboaQ"
+tw_csecret = "XbEcCr2e3qku9tFXdmTeJSppaxoupUGz0997hapOjmlbq2Doo9"
+tw_atoken = "820188531763068928-JnWz54AS6n1Ls9lwvIkej0qXX739Fiz"
+tw_asecret = "unBDNhSfMyM6ueUx8z7dqbQHEEfO245qNY1H1NVHd6T7B"
 
 # Email Settings
 send_email_alerts = False
